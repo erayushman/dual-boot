@@ -26,3 +26,8 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 ### Step 2- Installing Ubuntu
 - Insert Bootable Pendrive
 - Restart Your laptop/PC
+
+
+
+### Install GIT
+- `sudo apt-get -y install git`
