@@ -17,8 +17,12 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 - Download rufus from [====HERE====](https://github.com/pbatard/rufus/releases/download/v3.13/rufus-3.13.exe) or [here](https://rufus.ie/)
 - After downlaoding Ubunut Iso and Rufus executable follow the following steps to make you USB drive *bootable*
 
-### Make USB Bootable
+### Step 1-  Make USB Bootable
 - [Click here to see steps for how to make usb bootable](https://github.com/erayushman/dual-boot/blob/main/bootable-flash-drive.md)
 
-### Disable Fast Boot in Windows
+### Step 2- Disable Fast Boot in Windows
 - [Click here to see steps for how to disable fast boot in windows](https://github.com/erayushman/dual-boot/blob/main/disable-fast-boot.md)
+
+### Step 2- Installing Ubuntu
+- Insert Bootable Pendrive
+- Restart Your laptop/PC
