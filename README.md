@@ -5,6 +5,8 @@
 - OS build	19042.685
 - Experience	Windows Feature Experience Pack 120.2212.551.0
 
+# Requirements
+- 4GB+ Flash drive or USB Drive or Memory card with card reader or cd Drive
 
 # Dual-boot Ubuntu
 
