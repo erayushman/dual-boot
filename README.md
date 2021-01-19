@@ -31,3 +31,6 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 
 ### Install GIT
 - `sudo apt-get -y install git`
+- Genarate New SSH Key follow [this](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- Add Key to github follow [this](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
+- More about keys click [here](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
