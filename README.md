@@ -43,3 +43,4 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 - Run `mkdir git && cd git`
 - Copy Clone URL of this repo. Make sure you are copying the `SSH URL` and then in terminal Run `git clone <ssh_URL>`
 - Run `cd dual-boot && sudo chmod +x init-setup.sh && sudo ./init-setup.sh`
+- After reboot run `cd ~/git/dual-boot && sudo chmod +x step-2.sh && sudo ./step-2.sh`
