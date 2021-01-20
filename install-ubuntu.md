@@ -1,4 +1,4 @@
-
+# How to install Ubuntu alongside Windows
 - Insert Bootable Pendrive
 - **Shut-down** Your laptop/PC
 - Start you laptop/pc and **keep pressing F12** to open boot-menu([any typical boot-menu looks like this](https://user-images.githubusercontent.com/73331536/105133284-7aa36680-5b12-11eb-8b18-dec138569566.jpg))
