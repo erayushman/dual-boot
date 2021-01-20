@@ -32,6 +32,8 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 ### Step 5- Installing Ubuntu
 - [Click here to see setps for installing Ubuntu alongside windows](https://github.com/erayushman/dual-boot/blob/main/install-ubuntu.md)
 
+## Post Installation of Ubuntu
+
 ### Install GIT
 - `sudo apt-get -y install git`
 - Follow all the setps below [this line](https://github.com/erwin-inc/development/wiki/GitHub#gpg-installation)
