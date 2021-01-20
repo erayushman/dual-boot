@@ -12,9 +12,9 @@
 
 ## Procedure
 
-- download ubuntu iso file from [====HERE====](https://ubuntu.com/download/desktop).
+- **Download ubuntu iso** file from [====HERE====](https://ubuntu.com/download/desktop).
 I'm using `Ubuntu 20.04.1 LTS` for this dual boot
-- Download rufus from [====HERE====](https://github.com/pbatard/rufus/releases/download/v3.13/rufus-3.13.exe) or [here](https://rufus.ie/)
+- **Download rufus** from [====HERE====](https://github.com/pbatard/rufus/releases/download/v3.13/rufus-3.13.exe) or [here](https://rufus.ie/)
 - After downlaoding Ubunut Iso and Rufus executable follow the following steps to make you USB drive *bootable*
 
 ### Step 1-  Make USB Bootable
