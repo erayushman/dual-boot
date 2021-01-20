@@ -32,6 +32,7 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 - Start you laptop/pc and **keep pressing F12** to open boot-menu([any typical boot-menu looks like this](https://user-images.githubusercontent.com/73331536/105133284-7aa36680-5b12-11eb-8b18-dec138569566.jpg))
 - Use arrow key to navigate to your falsh drive/usb drive
 - Press Enter
+
 - Step 1
 <img width="512" alt="1" src="https://user-images.githubusercontent.com/73331536/105141751-a9740980-5b1f-11eb-88be-570b5dcc5f7e.png">
 - Step 2
