@@ -26,6 +26,9 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 ### Step 3- Disable Bitlocker in Windows
 - [Click here to see steps for how to disable Disable Bitlocker in Windows](https://github.com/erayushman/dual-boot/blob/main/disable-bitlocker.md)
 
+### Step 4 - Enable AHCI in BIOS
+- [Click here to see steps to enable AHCI from BIOS](https://github.com/erayushman/dual-boot/blob/main/enable-ahci.md)
+
 ### Step 4- Installing Ubuntu
 - [Click here to see setps for installing Ubuntu alongside windows](https://github.com/erayushman/dual-boot/blob/main/install-ubuntu.md)
 
