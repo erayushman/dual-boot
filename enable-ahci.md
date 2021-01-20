@@ -11,5 +11,17 @@
 
 # Enable AHCI from BIOS
 - Step 1 - Open cmd as Administrator and type `bcdedit /set safeboot minimal` and press enter
-- Step 2 - TODO
+- Step 2 - Shutdown your pc, start again and **keep pressing F12** to open Boot Menu
+
+  <img src="https://user-images.githubusercontent.com/73331536/105147098-b5af9500-5b26-11eb-8cf4-b8f07856f5dd.jpg">
+
+- Step 3 - Goto **System Configuration** `->` **SATA Operation** and select **AHCI**
+
+  <img src="https://user-images.githubusercontent.com/73331536/105147234-ea235100-5b26-11eb-8d28-7af27b4689f7.jpg">
+
+- Step 4 - Click Yes
+  <img src="https://user-images.githubusercontent.com/73331536/105147241-ec85ab00-5b26-11eb-9b28-795d0ad50a63.jpg">
+
+- Step 5 - Click on Apply
+
 - Step 3- Open cmd as Administrator and type `bcdedit /deletevalue safeboot` and press enter
