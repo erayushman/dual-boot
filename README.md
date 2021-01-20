@@ -29,7 +29,7 @@ I'm using `Ubuntu 20.04.1 LTS` for this dual boot
 ### Step 4 - Enable AHCI in BIOS
 - [Click here to see steps to enable AHCI from BIOS](https://github.com/erayushman/dual-boot/blob/main/enable-ahci.md)
 
-### Step 4- Installing Ubuntu
+### Step 5- Installing Ubuntu
 - [Click here to see setps for installing Ubuntu alongside windows](https://github.com/erayushman/dual-boot/blob/main/install-ubuntu.md)
 
 ### Install GIT
